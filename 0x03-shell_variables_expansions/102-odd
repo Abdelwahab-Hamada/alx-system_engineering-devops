@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d ' ' -f9| cat -n | egrep -v "[2468]" | cut -c8-
