@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# Bash script that displays
 
 for file in *; do
   echo "$file" | cut -d '-' -f 2;
