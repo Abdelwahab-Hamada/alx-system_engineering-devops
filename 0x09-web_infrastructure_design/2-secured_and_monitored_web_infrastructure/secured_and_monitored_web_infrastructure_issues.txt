@@ -1,0 +1,5 @@
+A. Terminating SSL at the load balancer level is an issue becaus  decryption consume CPU and resources
+
+B.Only One MySQL server is an issue because if it is down no new data would be added
+
+C.Having servers with same components is an issuce because if you want to change one service you have to change it all over the servers

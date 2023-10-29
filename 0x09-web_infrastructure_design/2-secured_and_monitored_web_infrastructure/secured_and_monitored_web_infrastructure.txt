@@ -1,0 +1,5 @@
+Firewalls: is to stand against attacks
+SSL: a security protocol that creates an encrypted link between a web server and a web browser
+HTTPS : to secure raw data between server and user
+Monitoring tools: it provides the capability to detect and diagnose performance
+It logs every thing happens on sever
