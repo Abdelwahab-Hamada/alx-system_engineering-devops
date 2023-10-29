@@ -1,0 +1,5 @@
+A. SPOF: having only one load balancer if it fails the application would not receive requests
+
+B. No firewall allows attackers to perform a denial of service attack no HTTPS allows attacker to read raw data between server and user
+
+C. No monitoring: if you can't mesaure it you can't develop it

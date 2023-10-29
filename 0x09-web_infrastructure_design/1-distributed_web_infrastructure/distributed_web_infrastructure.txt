@@ -1,0 +1,10 @@
+Load balancer : is to spread incoming requests to active server
+
+Load balancer algorithm: round robin is an algorithm that distributes requests one by one
+
+My load balancer enabling Active-Active setup: where both nodes are running the same services in the same time while Active-Passive setup if one is offline the other would be active
+
+DATABASE Primary-Replica: enables one database server to be reblicated
+
+Replica node is a copy of the primary Node 
+
