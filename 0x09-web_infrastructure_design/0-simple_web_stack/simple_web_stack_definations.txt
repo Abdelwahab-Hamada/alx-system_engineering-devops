@@ -1,0 +1,7 @@
+Server : is a device or a virtual machine
+Doman name: is a name to identify an ip address
+www : is a cname
+Role of web server : to host a web pages
+Role of application server : to host a web application like api etc
+Role of DATABASE: to manage data 
+Server uses a HTTP protocol for communication between user and server

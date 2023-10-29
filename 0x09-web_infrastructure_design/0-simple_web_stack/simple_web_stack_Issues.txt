@@ -1,0 +1,6 @@
+A.SPOF (Single Point Of Failure): having only one server if it stopped for ant reason the clients can't access it any more
+
+
+B.Downtime: is the period when a server or a web service is unavailable or offline
+
+C.Can't scale because this structure depends on one server to manage incoming requests
