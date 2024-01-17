@@ -11,7 +11,7 @@ def number_of_subscribers(subreddit):
     url = f"https://www.reddit.com/r/{subreddit}/about.json"
 
     # Set a custom User-Agent to avoid too many requests error
-    headers = {'User-Agent': 'My user Agent 1.0'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0'}
 
     # send a GET request to the Reddit API
     response = requests.get(url, headers=headers, allow_redirects=False)
